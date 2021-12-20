@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🤝 I’m looking to collaborate on data science and deep learning projects. 
 -->
 
 
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 ### Hi 👋
 I am recent Computer Science graduate looking collabaration in projects related to frontend and backend with Node.
 - 🔭 I’m currently working on creating frontend web with React and Typescript, and on the backend working with Node together with Typescript .
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=marlloncampos)
 
