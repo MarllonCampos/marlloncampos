@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 -->
-
-
-<p align="center"> 
-  <img  src="https://user-images.githubusercontent.com/52542050/146776068-7cfb4d36-d39a-4fc6-af6e-ecb43877dd24.png" />
-</p>
-                            
+                        
 
 ### Hi 👋
 I am recent Computer Science graduate looking collabaration in projects related to frontend and backend with Node.
