@@ -26,4 +26,4 @@ I am recent Computer Science graduate looking collabaration in projects related 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/marllon-campos)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlloncampos&layout=compact&theme=buefy&hide_border=true%22" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlloncampos&layout=compact&theme=buefy&hide_border=true%22"  />
