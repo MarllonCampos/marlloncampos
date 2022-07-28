@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### Hi 👋
 I am recent Computer Science graduate looking collabaration in projects related to frontend and backend with Node.
 - 🔭 I’m currently working on creating frontend web with React and Typescript, and on the backend working with Node together with Typescript .
+also looking for study and experience creating new apps with React Native
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=marlloncampos)
