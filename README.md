@@ -25,6 +25,6 @@ also looking for study and experience creating new apps with React Native
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=marlloncampos)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/marllon-campos)
+<a href="www.linkedin.com/in/marllon-campos" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlloncampos&layout=compact&theme=buefy&hide_border=true%22"  />
