@@ -25,3 +25,5 @@ I am recent Computer Science Bachelor looking collabaration in projects related 
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
+
+<img src="https://github.com/MarllonCampos/marlloncampos/blob/output/github-contribution-grid-snake-dark.svg" />
